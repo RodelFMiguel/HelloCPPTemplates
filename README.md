@@ -1,2 +1,2 @@
 # HelloTemplate
-Basic Application Templates for Starting New Projects
+Basic Templates for Starting New C/C++ Applications/Middleware/Libraries/Device Driver Projects
