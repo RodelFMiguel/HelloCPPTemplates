@@ -8,3 +8,5 @@ set (CMAKE_RUNTIME_OUTPUT_DIRECTORY  ${CMAKE_SOURCE_DIR}/build/bin)
 
 set(SOURCE_FILES main.cpp)
 add_executable(HelloTemplate ${SOURCE_FILES})
+
+add_subdirectory(socket_server)
