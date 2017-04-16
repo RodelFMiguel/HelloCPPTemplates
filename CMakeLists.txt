@@ -10,3 +10,4 @@ set(SOURCE_FILES main.cpp)
 add_executable(HelloTemplate ${SOURCE_FILES})
 
 add_subdirectory(socket_server)
+add_subdirectory(socket_client)
